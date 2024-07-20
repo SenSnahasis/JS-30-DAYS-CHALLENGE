@@ -1,4 +1,4 @@
-/* Variable Declaration */
+/* Activity 1: Variable Declaration */
 // Task 1
 var variableOne = 212;
 console.log(variableOne);
@@ -8,13 +8,13 @@ let variableTwo = "Snahasis"
 console.log(variableTwo);
 
 
-/* Constant Declaration */
+/* Activity 2: Constant Declaration */
 // Task 3
 const variableThree = true;
 console.log(variableThree);
 
 
-/* Data Types */
+/* Activity 3: Data Types */
 // Task 4
 name = "Alex"
 roll = 202
@@ -31,7 +31,7 @@ console.log(typeof(obj));
 console.log(typeof(arr));
 
 
-/* Reassigning Variables */
+/* Activity 4: Reassigning Variables */
 // Task 5
 let username = "Riya"
 console.log(username);
@@ -39,7 +39,7 @@ username = "Diya"
 console.log(username);
 
 
-/* Understanding const */
+/* Activity 5: Understanding const */
 // Task 6
 const value = 20
 console.log(value)
